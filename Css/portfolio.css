@@ -7,13 +7,23 @@ body {
     color: #f8fafc;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-h1 {
+h2 {
     background-color: #1d184e;
     color: #00f7e2;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+    padding: 10px;
 }
 img {
     border: 3px solid #38bdf8;
     height: 80px;
     width: 80px;
+}
+.box {
+     background-color: #1e293b;
+            color: #f8fafc;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
